@@ -75,7 +75,14 @@
 
     <img width="718" height="536" alt="image" src="https://github.com/user-attachments/assets/4c2b193d-6fa6-47ef-a542-b4b1dac15b36" />
 
-    
+    Увеличиваем раздел /dev/sda2 утилитой growpart
+
+    <img width="1013" height="725" alt="image" src="https://github.com/user-attachments/assets/6737ff24-a848-47e3-95c2-20b6b4e33a55" />
+
+    Увеличил размер файловой системы утилитой resize2fs
+
+    <img width="987" height="834" alt="image" src="https://github.com/user-attachments/assets/702bd526-c124-452f-ab8a-e6c8692d2282" />
+
 
 
 
