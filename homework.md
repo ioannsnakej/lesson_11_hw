@@ -65,6 +65,23 @@
 
     <img width="820" height="633" alt="image" src="https://github.com/user-attachments/assets/867d9d6e-b144-4889-bc69-697c21f49d9d" />
 
+10. Увеличить диск на ВМ на 5ГБ
+
+    В настройках ВМ увеличиваем диск на 5ГБ (ctrl+d -> выбираем наш диск -> свойства -> внизу меняем с 25 на 30 ГБ -> Применить)
+
+    <img width="1911" height="1041" alt="image" src="https://github.com/user-attachments/assets/ff472317-40e1-4c69-a61e-c6642bcf93a8" />
+
+    Проверяем через lsblk
+
+    <img width="718" height="536" alt="image" src="https://github.com/user-attachments/assets/4c2b193d-6fa6-47ef-a542-b4b1dac15b36" />
+
+    
+
+
+
+    
+
+
 
 
 
