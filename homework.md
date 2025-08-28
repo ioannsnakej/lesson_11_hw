@@ -38,11 +38,37 @@
 6. Получить краткую информацию по командам ls и cd с помощью
 команды whatis и apropos. В чем различие?
 
-    <img width="899" height="319" alt="image" src="https://github.com/user-attachments/assets/99606b60-df4c-47da-a6b1-b73ec4292cc6" />
+   <img width="899" height="319" alt="image" src="https://github.com/user-attachments/assets/99606b60-df4c-47da-a6b1-b73ec4292cc6" />
 
    <img width="899" height="620" alt="image" src="https://github.com/user-attachments/assets/f2ab3cf7-df4e-4a17-9622-e66bcfedb54a" />
 
-   
+   whatis - Выводит краткое описание команды. Использует базу данных, которая содержит краткое описание всех команд, доступных в системе. Команда ищет в базе данных соответствующую запись для указанной команды и выводит её на экран/
+
+   apropos - Находит все команды, связанные с заданным ключевым словом. Выводит на экран краткие описания команд, содержащие строку, переданную ей в качестве аргумента.
+
+7. То же, что и в п.5, только с помощью команды info.
+
+    Команда info в Linux — утилита, которая читает документацию, хранящуюся в формате Info. Страницы документов Info создаются с помощью инструментов Texinfo, могут связываться с другими страницами и создавать меню для навигации. 
+
+    <img width="549" height="86" alt="image" src="https://github.com/user-attachments/assets/43cce127-f893-4fe9-a8ad-351705cfd67e" />
+
+    <img width="770" height="352" alt="image" src="https://github.com/user-attachments/assets/45a39c4d-1c7b-4afe-818d-6cefbd83e3ea" />
+
+8. Создайте в домашнем каталоге следующую структуру подкаталогов
+(существующие каталоги не удаляйте!)
+
+    <img width="1009" height="866" alt="image" src="https://github.com/user-attachments/assets/b3f4727a-4db5-43c7-b85f-75894835f8bd" />
+
+   <img width="297" height="102" alt="image" src="https://github.com/user-attachments/assets/13c960b2-961d-4ef2-b979-4ae815233be8" />
+
+9. Выведите первые и последние 13 строк файла /etc/group.
+
+    <img width="820" height="633" alt="image" src="https://github.com/user-attachments/assets/867d9d6e-b144-4889-bc69-697c21f49d9d" />
+
+
+
+
+
 
 
 
